@@ -7,6 +7,14 @@
     "EncryptedMediaExtensions": {
       "Enabled": true
     },
+    "FirefoxHome": {
+      "Highlights": false,
+      "Pocket": false,
+      "SponsoredPocket": false,
+      "SponsoredTopSites": false,
+      "TopSites": false,
+      "Weather": false
+    },
     "Homepage": {
       "StartPage": "homepage",
       "URL": "https://bing.com/?ensearch=1"
@@ -42,12 +50,17 @@
         "Value": true
       }
     },
+    "RequestedLocales": "",
     "SearchEngines": {
       "Default": "Bing"
     },
     "SearchSuggestEnabled": false,
     "ShowHomeButton": true,
     "SkipTermsOfUse": true,
+    "SupportMenu": {
+      "Title": "Evernight Vista",
+      "URL": "https://github.com/evernightvista"
+    },
     "WebsiteFilter": {
       "Block": [
         "https://wm.makeding.com/",
